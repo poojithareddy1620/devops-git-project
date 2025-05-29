@@ -27,5 +27,5 @@ This project demonstrates a version-controlled DevOps workflow using Git and Git
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/devops-git-project.git
+   git clone https://github.com/poojithareddy1620/devops-git-project.git
    cd devops-git-project
